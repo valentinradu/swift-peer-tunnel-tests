@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "swift-peer-tunnel",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/valentinradu/swift-peer-tunnel.git",
+      "state" : {
+        "revision" : "f7891873508d41775e59399de417e869ad94eead",
+        "version" : "0.0.5"
+      }
+    }
+  ],
+  "version" : 2
+}
